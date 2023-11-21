@@ -14,6 +14,9 @@ In the realm of technology and human-computer interaction, an extensive spectrum
 -	To improve the Identification of hand in the Realtime
 -	To develop a customizable hand gesture user interface
 
+## Dataset
+link: https://www.kaggle.com/datasets/smithss/hand-gesture-dataset?rvi=1&select=folder
+
 ## SYSTEM ARCHITECTURE
 <img width="840" alt="Screenshot 2023-11-05 at 3 42 31 PM" src="https://github.com/Smith-S-S/Design-And-Development-of-Vision-Based-Hand-Gesture-Recognition-for-Contactless-Control/assets/80092760/c501ad75-daf5-47f0-8ff0-e2209cd08cbf">
 
