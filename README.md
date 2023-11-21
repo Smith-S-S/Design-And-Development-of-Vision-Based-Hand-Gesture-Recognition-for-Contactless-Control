@@ -10,8 +10,19 @@ In the realm of technology and human-computer interaction, an extensive spectrum
 
 
 ## OBJECTIVES OF THE PROJECT
-•	To develop a model which works in various brightness level
-•	To improve the Identification of hand in the Realtime
-•	To develop a customizable hand gesture user interface
+-	To develop a model which works in various brightness level
+-	To improve the Identification of hand in the Realtime
+-	To develop a customizable hand gesture user interface
+
+## SYSTEM ARCHITECTURE
+<img width="840" alt="Screenshot 2023-11-05 at 3 42 31 PM" src="https://github.com/Smith-S-S/Design-And-Development-of-Vision-Based-Hand-Gesture-Recognition-for-Contactless-Control/assets/80092760/c501ad75-daf5-47f0-8ff0-e2209cd08cbf">
+
+## Output
+
+-Interface:
+<img width="873" alt="Screenshot 2023-11-05 at 3 54 59 PM" src="https://github.com/Smith-S-S/Design-And-Development-of-Vision-Based-Hand-Gesture-Recognition-for-Contactless-Control/assets/80092760/0fb71edf-1854-4cbe-94c9-c4d59fe74cb6">
+
+-Hardware:
+<img width="602" alt="Screenshot 2023-11-05 at 12 46 02 AM" src="https://github.com/Smith-S-S/Design-And-Development-of-Vision-Based-Hand-Gesture-Recognition-for-Contactless-Control/assets/80092760/fe4e393b-91bb-4108-b2a7-78fb6351953b">
 
 
