@@ -1,7 +1,7 @@
 
 # 👋 Design And Development of Vision Based Hand Gesture Recognition for Contactless Control
 
-In this project, I developed a web application using the Streamlit library to perform WhatsApp chat analysis. The application offers chat analysis, visualization, and summarization functionalities for conversations within the past 24 hours. Leveraging the huggingface pipeline and other supporting libraries, the webapp provides valuable insights into the chat content and user interactions.
+In this project, I developed a real-time hand detection and tracking mechanisms with opencv and machine Learning.
 
 
 ## ABSTRACT
